@@ -1,4 +1,4 @@
-#Strogonoff de Frango 
+# Strogonoff de Frango :poultry_leg:
 
 ### Ingredientes
 - 3 peitos de frango cortados em cubos
